@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C Sharp Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|d:\\web development\\coding\\learning\\dotnet\\sameersaini\\dotnet\\c sharp basic\\c sharp basic\\variables\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|solutionrelative:c sharp basic\\variables\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|d:\\web development\\coding\\learning\\dotnet\\sameersaini\\dotnet\\c sharp basic\\c sharp basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|solutionrelative:c sharp basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variable.cs",
+              "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C Sharp Basic\\C Sharp Basic\\Variables\\Variable.cs",
+              "RelativeDocumentMoniker": "C Sharp Basic\\Variables\\Variable.cs",
+              "ToolTip": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C Sharp Basic\\C Sharp Basic\\Variables\\Variable.cs",
+              "RelativeToolTip": "C Sharp Basic\\Variables\\Variable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:35:38.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C Sharp Basic\\C Sharp Basic\\Program.cs",
+              "RelativeDocumentMoniker": "C Sharp Basic\\Program.cs",
+              "ToolTip": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C Sharp Basic\\C Sharp Basic\\Program.cs*",
+              "RelativeToolTip": "C Sharp Basic\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:27:20.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
