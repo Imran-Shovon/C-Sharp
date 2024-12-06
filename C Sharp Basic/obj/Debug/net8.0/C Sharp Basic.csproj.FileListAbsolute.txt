@@ -12,3 +12,18 @@ D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C Sharp Basic\C Sha
 D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C Sharp Basic\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.pdb
 D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C Sharp Basic\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.genruntimeconfig.cache
 D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C Sharp Basic\C Sharp Basic\obj\Debug\net8.0\ref\C Sharp Basic.dll
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\bin\Debug\net8.0\C Sharp Basic.exe
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\bin\Debug\net8.0\C Sharp Basic.deps.json
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\bin\Debug\net8.0\C Sharp Basic.runtimeconfig.json
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\bin\Debug\net8.0\C Sharp Basic.dll
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\bin\Debug\net8.0\C Sharp Basic.pdb
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.AssemblyInfoInputs.cache
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.AssemblyInfo.cs
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.csproj.CoreCompileInputs.cache
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.sourcelink.json
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.dll
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\refint\C Sharp Basic.dll
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.pdb
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\C Sharp Basic.genruntimeconfig.cache
+D:\Web Development\Coding\Learning\Dotnet\SameerSaini\Dotnet\C-Sharp\C Sharp Basic\obj\Debug\net8.0\ref\C Sharp Basic.dll
