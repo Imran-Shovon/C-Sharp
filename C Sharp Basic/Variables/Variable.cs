@@ -12,7 +12,7 @@ namespace C_Sharp_Basic.Variables
          public int age;
         public void DisplayAge()
         {
-            if (age < 0)
+            if (age <= 0)
             {
                 Console.WriteLine("Please set the age first");
                 return;
