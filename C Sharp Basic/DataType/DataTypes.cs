@@ -49,5 +49,9 @@ namespace C_Sharp_Basic.DataType
         //pointer
 
 
+        //Null types
+        int? nullValue = null;
+
+
     }
 }
