@@ -26,4 +26,6 @@ Types of Variables:
    => ReadOnly Variable: If a variable is declared by using the readonly keyword then it will be read-only variables and these variables can’t be modified like constants but after initialization.
 
 Implicitly Typed Local Variables: Implicitly typed variables are those variables that are declared without specifying the .NET type explicitly. In an implicitly typed variable, the type of the variable is automatically deduced at compile time by the compiler from the value used to initialize the variable. It is designed to handle some special-case situations like LINQ(Language-Integrated Query).
+
+Dynamic Type: Dynamic Type is used to avoid the compile-time type checking. The compiler does not check the type of the dynamic type variable at compile time, instead of this, the compiler gets the type at the run time. the dynamic type behaves like object types.
    
