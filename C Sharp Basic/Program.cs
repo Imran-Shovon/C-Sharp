@@ -26,9 +26,14 @@ TypesOfVariables typesOfVariables = new TypesOfVariables();
 // Not allowed
 //var data = { 23, 24, 10 };
 // Allowed 
-var data = new int[] { 23, 34, 455, 65 };
-TypesOfVariables.addStr("Shovon ", "Biswas");
-TypesOfVariables.addStr(100, 300);
+//var data = new int[] { 23, 34, 455, 65 };
+//TypesOfVariables.addStr("Shovon ", "Biswas");
+//TypesOfVariables.addStr(100, 300);
+//Creating Binary literals
+var binaryLiteral1 = 0b1001;
+Console.WriteLine("Value of Num1 is: " + binaryLiteral1);
+var binaryLiteral2 = 0b_010_000_000_000_000_000_000_000_000;
+Console.WriteLine("Value of Num1 is: " + binaryLiteral2);
 
 
 
