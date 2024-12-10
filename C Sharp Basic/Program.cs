@@ -11,13 +11,25 @@ using System.ComponentModel.DataAnnotations;
 
 
 //Data types
-DataTypes dataTypesobj = new DataTypes();
-dataTypesobj.GetDataTypesOutputs();
+//DataTypes dataTypesobj = new DataTypes();
+//dataTypesobj.GetDataTypesOutputs();
 
 //TypesOfVariables
 TypesOfVariables typesOfVariables = new TypesOfVariables();
 //instance variable
-typesOfVariables.age = 20;
+//typesOfVariables.age = 20;
+//Constant variable cannot be acces through instance variable like below.
+//Console.WriteLine(typesOfVariables.PI);
+
+//Implicitly Typed Local Variables
+//var implicitlyTypedVariable = 20;
+// Not allowed
+//var data = { 23, 24, 10 };
+// Allowed 
+var data = new int[] { 23, 34, 455, 65 };
+TypesOfVariables.addStr("Shovon ", "Biswas");
+TypesOfVariables.addStr(100, 300);
+
 
 
 
