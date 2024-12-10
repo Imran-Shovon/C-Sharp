@@ -28,4 +28,6 @@ Types of Variables:
 Implicitly Typed Local Variables: Implicitly typed variables are those variables that are declared without specifying the .NET type explicitly. In an implicitly typed variable, the type of the variable is automatically deduced at compile time by the compiler from the value used to initialize the variable. It is designed to handle some special-case situations like LINQ(Language-Integrated Query).
 
 Dynamic Type: Dynamic Type is used to avoid the compile-time type checking. The compiler does not check the type of the dynamic type variable at compile time, instead of this, the compiler gets the type at the run time. the dynamic type behaves like object types.
+
+Binary literal: The binary literal is used to store the binary value in a variable. The binary literal is represented by 0b. Binary literals are mainly used for bitmasks. (var num = 0b10001)
    
