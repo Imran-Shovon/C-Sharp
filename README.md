@@ -30,4 +30,5 @@ Implicitly Typed Local Variables: Implicitly typed variables are those variables
 Dynamic Type: Dynamic Type is used to avoid the compile-time type checking. The compiler does not check the type of the dynamic type variable at compile time, instead of this, the compiler gets the type at the run time. the dynamic type behaves like object types.
 
 Binary literal: The binary literal is used to store the binary value in a variable. The binary literal is represented by 0b. Binary literals are mainly used for bitmasks. (var num = 0b10001)
+Type Casting: Type conversion happens when we assign the value of one data type to another.
    
