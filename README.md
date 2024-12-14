@@ -1,6 +1,7 @@
 # C-Sharp
 
- <h5>Data Types:</h5>
+#Data Types:
+
 1. Value Data Types
 2. Reference Data Types
 3. Pointer Data Type
@@ -31,3 +32,8 @@ Implicitly Typed Local Variables: Implicitly typed variables are those variables
 Dynamic Type: Dynamic Type is used to avoid the compile-time type checking. The compiler does not check the type of the dynamic type variable at compile time, instead of this, the compiler gets the type at the run time. the dynamic type behaves like object types.
 
 Binary literal: The binary literal is used to store the binary value in a variable. The binary literal is represented by 0b. Binary literals are mainly used for bitmasks. (var num = 0b10001)
+<<<<<<< HEAD
+=======
+Type Casting: Type conversion happens when we assign the value of one data type to another.
+
+> > > > > > > 465f34bc2aad41314c857eb4e189e93f319ae6eb
