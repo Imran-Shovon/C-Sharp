@@ -95,15 +95,15 @@ using C_Sharp_Basic.Loops;
 
 
 //ThrowStatement
-string subject = null;
-ThrowStatement throwStatementobj = new();
-try
-{
-    throwStatementobj.displaySubject(subject);
-}
-catch(Exception exp)
-{
-    Console.WriteLine(exp.Message);
-}
+//string subject = null;
+//ThrowStatement throwStatementobj = new();
+//try
+//{
+//    throwStatementobj.displaySubject(subject);
+//}
+//catch(Exception exp)
+//{
+//    Console.WriteLine(exp.Message);
+//}
 
 
