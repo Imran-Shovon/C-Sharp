@@ -4,6 +4,7 @@ using C_Sharp_Basic.DataType;
 using System.ComponentModel.DataAnnotations;
 using C_Sharp_Basic.Operators;
 using C_Sharp_Basic.Loops;
+using C_Sharp_Basic.Array;
 
 //Problem solve
 //Variable myobj = new();
@@ -106,4 +107,22 @@ using C_Sharp_Basic.Loops;
 //    Console.WriteLine(exp.Message);
 //}
 
+
+////Array
+//Arrays arrayobj = new Arrays();
+//arrayobj.Showtemperature();
+//arrayobj.ForEachLoopInArray();
+////sorting an array
+//string[] cars = { "BMW", "Volvo", "Ford", "Mazda" };
+//Array.Sort(cars);
+
+//foreach (var car in cars)
+//{
+//    Console.WriteLine(car);
+//}
+
+//MultiDimesional Array.
+int[,] multiDimensionalArray = { { 1, 2, 3, 4 }, { 5, 6, 7, 9 } };
+MultiDimensionalArray twoDArrayobj = new MultiDimensionalArray();
+twoDArrayobj.MultiDimensionalArrayobj(multiDimensionalArray);
 

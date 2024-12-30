@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|d:\\web development\\coding\\learning\\dotnet\\sameersaini\\dotnet\\c-sharp\\c sharp basic\\array\\multidimensionalarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|solutionrelative:c sharp basic\\array\\multidimensionalarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|d:\\web development\\coding\\learning\\dotnet\\sameersaini\\dotnet\\c-sharp\\c sharp basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|solutionrelative:c sharp basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|d:\\web development\\coding\\learning\\dotnet\\sameersaini\\dotnet\\c-sharp\\c sharp basic\\array\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|solutionrelative:c sharp basic\\array\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D151D9C9-D972-4C33-A545-9471790E8035}|C Sharp Basic\\C Sharp Basic.csproj|d:\\web development\\coding\\learning\\dotnet\\sameersaini\\dotnet\\c-sharp\\c sharp basic\\loops\\throwstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +70,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ForEachLoop.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Loops\\ForEachLoop.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Loops\\ForEachLoop.cs",
@@ -74,20 +82,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "MultiDimensionalArray.cs",
+              "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Array\\MultiDimensionalArray.cs",
+              "RelativeDocumentMoniker": "C Sharp Basic\\Array\\MultiDimensionalArray.cs",
+              "ToolTip": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Array\\MultiDimensionalArray.cs",
+              "RelativeToolTip": "C Sharp Basic\\Array\\MultiDimensionalArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T19:58:00.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Array\\Arrays.cs",
+              "RelativeDocumentMoniker": "C Sharp Basic\\Array\\Arrays.cs",
+              "ToolTip": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Array\\Arrays.cs",
+              "RelativeToolTip": "C Sharp Basic\\Array\\Arrays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:56:38.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ThrowStatement.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Loops\\ThrowStatement.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Loops\\ThrowStatement.cs",
               "ToolTip": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Loops\\ThrowStatement.cs",
               "RelativeToolTip": "C Sharp Basic\\Loops\\ThrowStatement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T20:47:21.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T20:47:21.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DoWhileLoop.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Loops\\DoWhileLoop.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Loops\\DoWhileLoop.cs",
@@ -99,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ForLoop.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Loops\\ForLoop.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Loops\\ForLoop.cs",
@@ -111,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IfStatement.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Loops\\IfStatement.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Loops\\IfStatement.cs",
@@ -123,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "WhileLoop.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Loops\\WhileLoop.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Loops\\WhileLoop.cs",
@@ -135,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SwitchStatement.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Loops\\SwitchStatement.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Loops\\SwitchStatement.cs",
@@ -147,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Operators.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Operators\\Operators.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Operators\\Operators.cs",
@@ -159,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DataTypes.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\DataType\\DataTypes.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\DataType\\DataTypes.cs",
@@ -171,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TypesOfVariables.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Variables\\TypesOfVariables.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Variables\\TypesOfVariables.cs",
@@ -183,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Variable.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Variables\\Variable.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Variables\\Variable.cs",
@@ -201,13 +233,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Program.cs",
               "RelativeDocumentMoniker": "C Sharp Basic\\Program.cs",
               "ToolTip": "D:\\Web Development\\Coding\\Learning\\Dotnet\\SameerSaini\\Dotnet\\C-Sharp\\C Sharp Basic\\Program.cs",
               "RelativeToolTip": "C Sharp Basic\\Program.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGoAAAADAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAH4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T16:27:20.563Z",
               "EditorCaption": ""
